@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: New Marker
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4703409054706139380
+  m_GuidHigh: 6969478893811869074
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5552976772279688304
+      m_GuidHigh: 9580686514408125077
+    m_SerializedTextureGuid:
+      m_GuidLow: 13876744152363852531
+      m_GuidHigh: 9122476504648322121
+    m_Size: {x: 0.3, y: 0.31417325}
+    m_SpecifySize: 0
+    m_Name: JCO
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5655385729541027688
+      m_GuidHigh: 18225426537909810089
+    m_SerializedTextureGuid:
+      m_GuidLow: 9229183271903387514
+      m_GuidHigh: 5076735825819957721
+    m_Size: {x: 0.5, y: 0.16239874}
+    m_SpecifySize: 0
+    m_Name: indomaret_marker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5117603757211521128
+      m_GuidHigh: 8658122422489683081
+    m_SerializedTextureGuid:
+      m_GuidLow: 14876612564324684648
+      m_GuidHigh: 15102217160629782169
+    m_Size: {x: 0.5, y: 0.41033}
+    m_SpecifySize: 0
+    m_Name: kfc_marker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5447197599720707498
+      m_GuidHigh: 10561826773304157587
+    m_SerializedTextureGuid:
+      m_GuidLow: 7342117237235403634
+      m_GuidHigh: 18302054410382699801
+    m_Size: {x: 0.5, y: 0.5}
+    m_SpecifySize: 0
+    m_Name: sb logo
+    m_Texture: {fileID: 0}

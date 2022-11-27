@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ImageMarker
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5414231128913517520
+  m_GuidHigh: 16979412278926286489
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4992189117383160332
+      m_GuidHigh: 4533464660736346035
+    m_SerializedTextureGuid:
+      m_GuidLow: 8220456579541481455
+      m_GuidHigh: 7153778678161351656
+    m_Size: {x: 0.3, y: 0.17372584}
+    m_SpecifySize: 1
+    m_Name: Ranchmarket
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5279015928672150821
+      m_GuidHigh: 16466464149313569174
+    m_SerializedTextureGuid:
+      m_GuidLow: 7607935134098945885
+      m_GuidHigh: 17828013285490476123
+    m_Size: {x: 0.3, y: 0.15859248}
+    m_SpecifySize: 1
+    m_Name: MarknSpencer
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5030189279289249615
+      m_GuidHigh: 17872009323519679376
+    m_SerializedTextureGuid:
+      m_GuidLow: 4986670055130077689
+      m_GuidHigh: 15794802299225463019
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Yolo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5428638193327080189
+      m_GuidHigh: 3936213472207589550
+    m_SerializedTextureGuid:
+      m_GuidLow: 6216345543690354188
+      m_GuidHigh: 4620269182722284171
+    m_Size: {x: 0.3, y: 0.169}
+    m_SpecifySize: 1
+    m_Name: Lafayetter
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4727989205240540866
+      m_GuidHigh: 18305983447154189192
+    m_SerializedTextureGuid:
+      m_GuidLow: 212827396018597259
+      m_GuidHigh: 1741703630611297674
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: iBox
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5680650989822473401
+      m_GuidHigh: 14933280691915597243
+    m_SerializedTextureGuid:
+      m_GuidLow: 5752440473801492915
+      m_GuidHigh: 11959092939371764490
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: JCO
+    m_Texture: {fileID: 0}

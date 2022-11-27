@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: VideoMarker
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5074089842906707560
+  m_GuidHigh: 14205449782051429276
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5552976772279688304
+      m_GuidHigh: 9580686514408125077
+    m_SerializedTextureGuid:
+      m_GuidLow: 3910523260786971535
+      m_GuidHigh: 14313683339206421609
+    m_Size: {x: 0.7663044, y: 1.9548581}
+    m_SpecifySize: 1
+    m_Name: Video1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5243278654194881734
+      m_GuidHigh: 5123469342273038754
+    m_SerializedTextureGuid:
+      m_GuidLow: 8949809978437323977
+      m_GuidHigh: 14706930154216545192
+    m_Size: {x: 0.7663044, y: 2.0428731}
+    m_SpecifySize: 1
+    m_Name: Video2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5355863431039535267
+      m_GuidHigh: 10283192845454962579
+    m_SerializedTextureGuid:
+      m_GuidLow: 11445008091004386594
+      m_GuidHigh: 8470870606559700730
+    m_Size: {x: 0.7663044, y: 1.9727515}
+    m_SpecifySize: 1
+    m_Name: Video3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5319996747267291657
+      m_GuidHigh: 15905793660115317679
+    m_SerializedTextureGuid:
+      m_GuidLow: 1559643326003352169
+      m_GuidHigh: 6236177097974488875
+    m_Size: {x: 0.7663044, y: 1.6296643}
+    m_SpecifySize: 1
+    m_Name: Video4
+    m_Texture: {fileID: 0}
